@@ -2,7 +2,7 @@
 
 This is a very basic Tic-Tac-Toe website that was built using HTML,CSS,JAVASCRIPT,PHP,SQL.
 
-#Frontend
+# Frontend
 
 The frontend was built using HTML,CSS,JAVASCRIPT and it consists of four pages:
 
@@ -22,7 +22,7 @@ On this page there is a 3X3 grid in which a user can place an X or an O and ther
 
 On this page there are three options for user to choose (i) 3X3 grid (ii) 4X4 grid (iii) 5X5 grid.
 
-#Backend
+# Backend
 
 The backend of the website was built using PHP and MYSQL
 
@@ -32,7 +32,7 @@ If the credentials are valid the user is granted access to the homepage.If the c
 
 In the case of a dataleak, if the database was accessed by other people, the user passwords would not be compromised as there is a hashing algorithm that hashes the passwords.
 
-#Hosting
+# Hosting
 
 the webpage is hosted on 000webhost.
 the link for th webpage is: https://tic-tac-toe-yathnesh.000webhostapp.com/login.php

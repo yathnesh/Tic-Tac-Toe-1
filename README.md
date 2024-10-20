@@ -31,9 +31,3 @@ Later on when the user wants to login through the login page, the page sends a r
 If the credentials are valid the user is granted access to the homepage.If the credentials are invalid the user wil be sent a prompt telling them to use valid credentials.
 
 In the case of a dataleak, if the database was accessed by other people, the user passwords would not be compromised as there is a hashing algorithm that hashes the passwords.
-
-# Hosting
-
-the webpage is hosted on 000webhost.
-the link for th webpage is: https://tic-tac-toe-yathnesh.000webhostapp.com/login.php
-the mobile apk for the app is in the android folder of the source code.
